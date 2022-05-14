@@ -1,0 +1,3 @@
+[submodule "reg-app"]
+	path = reg-app
+	url = https://github.com/abspir/1962559-Architecture-Assignment.git
